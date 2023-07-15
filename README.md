@@ -6,9 +6,7 @@
 **R0uter/R0uter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning ...Master of CS!
+- 📝 Writing Swift Python Kotlin Javascript
 
-- 📝 Writting Swift Python C# Javascript
-
-- ⚡ Fun fact: I am running www.cnswift.org, creator of 落格输入法~
+- ⚡ Fun fact: www.cnswift.org, www.logcg.com, im.logcg.com, creator of 落格输入法~
 
